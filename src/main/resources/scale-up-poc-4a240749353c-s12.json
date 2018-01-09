@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "scale-up-poc",
+  "private_key_id": "4a240749353c27bc9e564bace7e0a51abe308c1a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCyF5Sn/ippRPUu\n1pFhwBTY6iXXWL+Sh1ED33002Mv+x/rL79kaInv68Ivmq17kI/8FlWJHY0JJ/LNs\nxJNi+LHN2TxkqHz2SMGQoBEJegtIU50uIWjG6mJGZuGOCAZzvIyUCjuuMiL/vXPL\n0g7/1CQsoAVmfp31IzjrfSDXMsHy3MPoB1LkqxC27wkqO5p9+NPQLygbbVRnRojt\nsLFfHBPMkiNSnHNkErABLi3dJZxivKwZsRN6k59Wjz9i8M6mKFSZtZFHl5k+5Pi1\nVdvv8HZWlSAoCVcjGOjlTv5mqs12C+o7nN8Dz0Dk2aJ+jXUZ4zDHCsVZ1weaNPH8\nG7m5sWO/AgMBAAECggEAMZfTc7yZftsPE834iin9JDJ/+ynhnyJDczqnGTJODFMQ\nCf5ujJKRx914d/G86PcFKz7gMVT4vrW6GU3cZTEwAky+PqGUutij3mxUkjkEL03p\ndVEkZlAasdQwd2bQtSYKV6dJ20Zm7KSLPHTwbFldAXhGSLZ1si/ux9T+ci7WR5Sv\ninrhVaZAze45gnvd9Jj6P7+C24oABBnzm2i8yv1XwHTSAwMkky0FTdiFFL0ipgSI\nPEMSCUR0MzeOhNJGf9uQVBtSi44Ay3EgbHLaUimkZU5RCe0cvXgTlsao+EvkfWi/\nvef0qeYWVRcW6sn8ewdeds7RPLiDELCAFeHF5Dsl0QKBgQDewLLiNGSoCauQULHN\nHlKsS11aKkp6TDSfsVys1SyFQzBv56Zdgze21M2VmM0nmrOBKMD78GNZS9BKN0sk\n2jM/mQ/FjQa7/k3/+t9ZgywsN9MbTvYxGjFhGKlukXyER2wXIPAFQsiC+mcFYg9s\n3kfpCY5Nh/NHDG2FuLq7dVLscwKBgQDMrGp3PveuRza+OCXWO4BaSa7zsF+nKCTa\nJrFv9uYQWVgD7/sc8ZTp7WzB8FGB1rhPbedVrSqAdOifbgN872rwB+sxuUSFs3mn\n/hz5z9QpJHiYPpMuaj47pZAafoHn+2gtArh8P9n9wIOPB4z+4FivbZ/RAzaoNqWb\nIyyIsHpEhQKBgQDcXQIaqf5SBo8FS+85np/m9v+5LVFUv4Ln4IxwJsvOYfPPIPoC\nVMePReLD9dAvN+oRAoI4O03tjwTWBvF92acNaZyisKtS23fKnyLJ6OyQKgHcaDdB\nyEnFZqJnUeI+8nFKSDlq2vCGMrYsKyBbcWLudZejt7TCOtc2jNOek6ifZQKBgQCe\nK/SPOQtCFOjachvThuI3ZFAfJUOWs7BfIp3nkB/VrKYXTON8R7o0Wfa9nhHvTFfd\nkmq/zHZXFYIci3GIoKG84/G/2JR62ut+hyQvboxgSz4jMeCecx6rC9TklLWh6Klm\nd37JDrNRpfBFnak543jGAesLJPedYbXzwWgOLowe3QKBgQCsZ8yWVEa+05cHVbjr\ncYmwb+BVL8V6Auq9lfL7jmQaI7gi0mcoKg1rRS5MWP331dDdV801lzp6aVj+LJCk\nH3HfPOhB/+axgenhmAmpp0DKP7YXdWWWpDVofe8I7N0/UhsxccZlA4gJCOoMw1dp\n48VSADGP8Fku2YCOv8EsQiK2KA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "service12@scale-up-poc.iam.gserviceaccount.com",
+  "client_id": "118059537770020678870",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service12%40scale-up-poc.iam.gserviceaccount.com"
+}
